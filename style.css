@@ -324,6 +324,7 @@ body{
         display: flex;
         justify-content: space-between;
         align-items: center;
+        margin-bottom: 25px;
     }
     #last{
         border: 1px solid;
