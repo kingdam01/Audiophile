@@ -317,4 +317,43 @@ body{
     .best{
         color: red;
     }
+    .last{
+        /* background-color: black; */
+        border: 1px solid;
+        width: 120px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    #last{
+        border: 1px solid;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        background-color: black;
+        gap: 25px;
+
+        p{
+            text-align: center;
+            color:gray ;
+            font-size: 18px;
+            line-height: 25px;
+        }
+        h1{
+            color: white;
+            font-size: 40px;
+        }
+        h3{
+            color: white;
+        }
+        a{
+            text-decoration: none;
+            color: orange;
+            font-size: 20px;
+        }
+        h4{
+            color: gray;
+        }
+    }
 }
