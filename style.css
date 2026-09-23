@@ -298,6 +298,7 @@ body{
         flex-direction: column;
         justify-content: center;
         align-items: center;
+        background-color: whitesmoke;
 
         h1{
             font-size: 30px;
